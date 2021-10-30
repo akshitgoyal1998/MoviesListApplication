@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_40_sp">100sp</dimen>
+    <dimen name="dimens_15_sp">15sp</dimen>
+    <dimen name="dimens_10_sp">10sp</dimen>
+    <dimen name="dimen_movies_details_image_size">200sp</dimen>
+</resources>
